@@ -1,0 +1,5 @@
+name: 'Flair Vent'
+packageKey: 'flairVent'
+permissions:
+  lan: {}
+  discovery: {}

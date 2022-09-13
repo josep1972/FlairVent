@@ -1,0 +1,17 @@
+# Flair Puck Profile
+name: flairPuck.v1
+components:
+- id: main
+  capabilities:
+  - id: doorControl
+    version: 1
+  - id: battery
+    version: 1    
+  - id: refresh
+    version: 1
+  categories:
+  - name: Vent
+metadata:
+   deviceType: Vent
+   ocfDeviceType: x.com.st.d.sensor.contact
+   deviceTypeId: Vent
