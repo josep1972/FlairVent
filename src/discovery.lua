@@ -33,7 +33,7 @@ function discovery.handle_discovery(driver, _should_continue)
             type = "LAN",
             device_network_id = id,
             label = name,
-            profile = "flairPuck.v1",
+            profile = "flairVent.v1",
             manufacturer = "josep",
             model = "v1",
             vendor_provided_label = name
