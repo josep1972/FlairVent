@@ -13,5 +13,7 @@ components:
   - name: Vent
 metadata:
    deviceType: Vent
-   ocfDeviceType: x.com.st.d.sensor.contact
+   #ocfDeviceType: x.com.st.d.sensor.contact
+   ocfDeviceType: x.com.st.d.winecellar
+ 
    deviceTypeId: Vent
